@@ -15,4 +15,3 @@ IPACK ialah salah satu tools buatan saya sendiri, tools ini memudahkan para newb
 ### VIDIO PENGINSTALLAN
 <p align="center"><a href="LINK"><img title="Loddy XP" src="https://github.com/Loddy-02/msfdown/blob/main/image/20220610_125950.png"></a>
 </p>
-Epep
