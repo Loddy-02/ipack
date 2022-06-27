@@ -9,7 +9,7 @@ IPACK ialah salah satu tools buatan saya sendiri, tools ini memudahkan para newb
 * pkg install git
 * pkg install python
 * pkg install bash
-* pip install requests
+* pip install rich
 * <pre>git clone https://github.com/Loddy-02/ipack</pre>
 
 ### TOKEN
