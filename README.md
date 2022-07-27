@@ -15,5 +15,5 @@ IPACK ialah salah satu tools buatan saya sendiri, tools ini memudahkan para newb
 ### TOKEN
 https://cararegistrasi.com/1ZIwadcUlKuI
 ### VIDIO PENGINSTALLAN
-<p align="center"><a href="LINK"><img title="Loddy XP" src="https://github.com/Loddy-02/msfdown/blob/main/image/20220610_125950.png"></a>
+<p align="center"><a href="LINK"><img title="Loddy XP" src="https://github.com/Loddy-02/ipack/blob/main/img/20220727_153131.png"></a>
 </p>
